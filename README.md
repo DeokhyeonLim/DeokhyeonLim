@@ -4,13 +4,10 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-lim-b07495233/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Lim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:limdeokhyeon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-limdeokhyeon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://deokhyeonlim.github.io/kevin-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Kevin's%20IT%20Hub-149DDD?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -101,16 +98,6 @@ Flinders University, Australia
 
 **Bachelor of Electronic Engineering**  
 Kwangwoon University, Republic of Korea
-
----
-
-## Certifications & Highlights
-
-- AWS Academy Cloud Foundations
-- Cisco CyberOps Associate
-- Pearson Test of English Academic
-- Outstanding Academic Achievement, Flinders University
-- Go Beyond Scholarship, Flinders University
 
 ---
 
