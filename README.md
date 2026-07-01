@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DeokhyeonLim&label=Visitors&color=149ddd&style=flat-square" alt="Profile visitors">
-</p>
-
 ---
 
 ## About Me
@@ -81,22 +77,3 @@ I am particularly interested in cloud infrastructure, automation, data-driven re
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Technical%20Documentation-6C63FF?style=flat-square)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=flat-square)
-
----
-
-## Education
-
-**Master of Information Technology**  
-Flinders University, Australia
-
-**Bachelor of Electronic Engineering**  
-Kwangwoon University, Republic of Korea
-
----
-
-## Current Focus
-
-- Building a professional IT, cloud, data, and automation portfolio
-- Improving automation and AI-assisted job application workflows
-- Expanding practical cloud, data analytics, and cybersecurity projects
-- Developing clear technical documentation and project case studies
