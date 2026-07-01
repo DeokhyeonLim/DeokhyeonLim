@@ -1,4 +1,4 @@
-# Hi, I'm Deokhyeon (Kevin) Lim 👋
+# Hi, I'm Kevin Lim 👋
 
 **IT Professional | Cloud & Infrastructure | Data Analytics | Automation**
 
@@ -8,7 +8,7 @@ I am an IT professional based in Australia with experience across systems operat
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio Website:** [https://deokhyeonlim.github.io](https://deokhyeonlim.github.io)  
+🔗 **Portfolio Website:** [Portfolio](https://deokhyeonlim.github.io/kevin-portfolio/)  
 💼 **LinkedIn:** [Kevin Lim](https://www.linkedin.com/in/kevin-lim-b07495233/)  
 📧 **Email:** limdeokhyeon@gmail.com  
 
