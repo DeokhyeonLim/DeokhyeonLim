@@ -2,14 +2,7 @@
 
 **IT Professional | Cloud & Infrastructure | Data Analytics | Automation**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kevin-lim-b07495233/">
-  </a>
-  <a href="mailto:limdeokhyeon@gmail.com">
-  </a>
-  <a href="https://deokhyeonlim.github.io/kevin-portfolio/">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/kevin-lim-b07495233/) · [Email](mailto:limdeokhyeon@gmail.com) · [Portfolio](https://deokhyeonlim.github.io/kevin-portfolio/)
 
 ---
 
@@ -37,14 +30,16 @@ I am particularly interested in cloud infrastructure, automation, data-driven re
 ## Tech Stack
 
 ### Systems & Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Unix](https://img.shields.io/badge/Unix%20%2F%20AIX-4B275F?style=flat-square)
+![Unix / AIX](https://img.shields.io/badge/Unix%20%2F%20AIX-4B275F?style=flat-square)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
@@ -52,6 +47,7 @@ I am particularly interested in cloud infrastructure, automation, data-driven re
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ### Programming & Data
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -60,12 +56,14 @@ I am particularly interested in cloud infrastructure, automation, data-driven re
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Cybersecurity & Networking
-![Cisco](https://img.shields.io/badge/Cisco%20CyberOps-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+![Cisco CyberOps](https://img.shields.io/badge/Cisco%20CyberOps-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-0052CC?style=flat-square)
 ![Security Operations](https://img.shields.io/badge/Security%20Operations-2E3440?style=flat-square)
 
 ### Project Delivery
+
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Technical%20Documentation-6C63FF?style=flat-square)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=flat-square)
@@ -75,18 +73,23 @@ I am particularly interested in cloud infrastructure, automation, data-driven re
 ## Featured Projects
 
 ### AI-Powered Job Application Automation System
+
 A personal automation project designed to analyse job postings, compare them with resume/profile data, and support tailored job application workflows.
 
 ### Academic Resource Archive Automation
+
 Automation workflow for extracting, organising, and archiving large-scale academic resources using Power Automate, JavaScript, Python, PowerShell, Power BI, and Power Query.
 
 ### Cloud-based Data Engineering Pipeline
+
 A data engineering project focused on cloud-based data processing, structured reporting, and analytics workflow design.
 
 ### Networks and Cybersecurity Teaching Labs
+
 Teaching and lab support across Cisco CyberOps, Wireshark, packet analysis, Linux/Windows CLI, troubleshooting, and applied cybersecurity concepts.
 
 ### DevOps and Enterprise Systems Project
+
 Enterprise systems and DevOps project work covering CI/CD concepts, Azure DevOps, Agile delivery, system integration, and technical documentation.
 
 ---
