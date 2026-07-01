@@ -2,7 +2,21 @@
 
 **IT Professional | Cloud & Infrastructure | Data Analytics | Automation**
 
-[LinkedIn](https://www.linkedin.com/in/kevin-lim-b07495233/) · [Email](mailto:limdeokhyeon@gmail.com) · [Portfolio](https://deokhyeonlim.github.io/kevin-portfolio/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevin-lim-b07495233/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:limdeokhyeon@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://deokhyeonlim.github.io/kevin-portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-149DDD?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=DeokhyeonLim&label=Visitors&color=149ddd&style=flat-square" alt="Profile visitors">
+</p>
 
 ---
 
@@ -67,30 +81,6 @@ I am particularly interested in cloud infrastructure, automation, data-driven re
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Technical%20Documentation-6C63FF?style=flat-square)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=flat-square)
-
----
-
-## Featured Projects
-
-### AI-Powered Job Application Automation System
-
-A personal automation project designed to analyse job postings, compare them with resume/profile data, and support tailored job application workflows.
-
-### Academic Resource Archive Automation
-
-Automation workflow for extracting, organising, and archiving large-scale academic resources using Power Automate, JavaScript, Python, PowerShell, Power BI, and Power Query.
-
-### Cloud-based Data Engineering Pipeline
-
-A data engineering project focused on cloud-based data processing, structured reporting, and analytics workflow design.
-
-### Networks and Cybersecurity Teaching Labs
-
-Teaching and lab support across Cisco CyberOps, Wireshark, packet analysis, Linux/Windows CLI, troubleshooting, and applied cybersecurity concepts.
-
-### DevOps and Enterprise Systems Project
-
-Enterprise systems and DevOps project work covering CI/CD concepts, Azure DevOps, Agile delivery, system integration, and technical documentation.
 
 ---
 
